@@ -1,5 +1,5 @@
->>Ejercicio tema 1  
->Primeros pasos  
+<h1>Ejercicio tema 1  </h1>
+Primeros pasos  
 En primer lugar, he abierto un bloc de notas y he copiado los siguientes códigos:
 
 * Rtf: {\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
