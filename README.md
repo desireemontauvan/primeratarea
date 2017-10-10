@@ -12,9 +12,9 @@
 2. Me registré en [Github](https://github.com/)
 3. Subí a [mi repositorio Github][repositorio] los tres ficheros (**.rtf,.html y .xml**).
 4. Entré en [Rawgit](https://rawgit.com/) y abrí el fichero **.html**:  
-   -Copiando la URL del fichero.
-   -Guardándo la URL y copiándola en el enlance _"Use this url for development"_.
-   -Comprobando si funcionaba, abriendo dicho enlace.
+   -Copiando la URL del fichero.  
+   -Guardándo la URL y copiándola en el enlance _"Use this url for development"_.  
+   -Comprobando si funcionaba, abriendo dicho enlace.  
    
        
 
