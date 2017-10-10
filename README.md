@@ -1,6 +1,6 @@
 <h1>Ejercicio tema 1  </h1>
 
-<h3> Primeros pasos   </h3>
+<h3> _Primeros pasos_   </h3>
 
 1. Realizo lectura del contenido de la unidad 1.  
 2. Realizo el tutorial de [Mardown](http://www.markdowntutorial.com/)
