@@ -15,7 +15,7 @@
    -Copiando la URL del fichero.  
    -Guardándo la URL y copiándola en el enlance _"Use this url for development"_.  
    -Comprobando si funcionaba, abriendo dicho enlace.  
-5.Edité 
+5.Edité el documento **_README.md_** en [mi repositorio Github][repositorio] y comenté los pasos que he seguido para realizar esta tarea.
    
        
 
