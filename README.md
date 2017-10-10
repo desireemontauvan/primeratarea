@@ -4,7 +4,7 @@
 
 1. Realizo lectura del contenido de la unidad 1.  
 2. Realizo el tutorial de [Mardown](http://www.markdowntutorial.com/)
-3. Realizo el tutorial de [Github](https://guides.github.com/features/mastering-markdown/)
+3. Realizo el tutorial de [Github](https://guides.github.com/features/mastering-markdown/) ![http://hammerjs.github.io/assets/img/github-icon.png]
 
 <h3> Puesta en práctica   </h3>
 
