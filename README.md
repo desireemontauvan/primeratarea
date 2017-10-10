@@ -3,7 +3,7 @@
 <h3> Preparación previa al ejercicio   </h3>
 
 1. Realizo lectura del contenido de la unidad 1.  
-2. Realizo el tutorial de [Mardown](http://www.markdowntutorial.com/).
+2. Realizo el tutorial de [Markdown](http://www.markdowntutorial.com/).
 3. Realizo el tutorial de [Github](https://guides.github.com/features/mastering-markdown/). 
 
 <h3> Puesta en práctica   </h3>
