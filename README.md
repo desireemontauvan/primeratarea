@@ -11,7 +11,7 @@
 1. En primer lugar, creé documentos con bloc de notas con códigos **rtf, html y xml.** y cambié la extensión de dichos documentos a **.rtf, .html y .xml**
 2. Me registré en [Github](https://github.com/)
 3. Subí a [mi repositorio Github][repositorio] los tres ficheros (**.rtf,.html y .xml**).
-4. Entré en [Rawgit](https://rawgit.com/) y abrí el fichero **.html**:
+4. Entré en [Rawgit](https://rawgit.com/) y abrí el fichero **.html**:  
         -Copiando la URL
 
 
