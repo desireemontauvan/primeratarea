@@ -12,7 +12,7 @@
 2. Me registré en [Github](https://github.com/)
 3. Subí a [mi repositorio Github][repositorio] los tres ficheros (**.rtf,.html y .xml**).
 4. Entré en [Rawgit](https://rawgit.com/) y abrí el fichero **.html**:  
-        -Copiando la URL
+       -Copiando la URL
 
 
 
